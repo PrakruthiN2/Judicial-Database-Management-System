@@ -1,0 +1,2 @@
+# Judicial-Database-Management-System
+The project throws light on the Indian Judicial System and helps to understand the judicial system. The project tends to demonstrate the use and advantages of having a database holding the data of all existing and present cases. The database system aims to provide all the information in real time regarding any case which includes next hearing date, presiding judge, details of the residing parties involved, details of the lawyers, etc. The application has a rich, user friendly Graphical User Interface design developed using HTML and PHP. 
